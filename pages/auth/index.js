@@ -1,6 +1,6 @@
 import React from 'react';
 
-import User from '../../components/user.jsx';
+import User from '../../components/user.js';
 
 const authIndexPage = () => {
     return (
