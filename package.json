@@ -32,6 +32,7 @@
     ],
     "dependencies": {
         "next": "^4.2.1",
+        "prop-types": "^15.6.0",
         "react": "^16.2.0",
         "react-dom": "^16.2.0"
     },
@@ -42,7 +43,11 @@
         "eslint-plugin-react": "^7.5.1",
         "xo": "git@github.com:sindresorhus/xo.git#7c77af3cc036bf488f0b5b87e37fad9913e1a5f5"
     },
-    "keywords": ["nextjs", "testing", "likeriot"],
+    "keywords": [
+        "nextjs",
+        "testing",
+        "likeriot"
+    ],
     "xo": {
         "extend": [
             "tidy",
